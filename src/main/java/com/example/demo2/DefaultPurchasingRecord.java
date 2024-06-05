@@ -1,4 +1,6 @@
-package documentRecords;
+package com.example.demo2;
+
+import documentRecords.PurchasingRecord;
 
 public class DefaultPurchasingRecord implements PurchasingRecord {
     private Integer documentId;
